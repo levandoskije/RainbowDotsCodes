@@ -15,7 +15,7 @@
  - Open the folder _MathModel_ file ```qds_model_light.py```
  - Open python terminal inside this folder
  - run: ```python qds_model_light.py```
- 	- If you have Tkinter run automacclly:
+ 	- If you have Tkinter run automatically:
  	- Otherwise you need to open de script:
  		- comment the lines: 12, 388
  		- uncomment line: 386
