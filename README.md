@@ -3,7 +3,7 @@
 ## Mathematical model
 
 
-###How to run the code?
+### How to run the code?
  - Requeriments
  
 	- Python >= 3.6
