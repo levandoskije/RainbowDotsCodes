@@ -1,0 +1,31 @@
+gapseq adapt add P23-PWY ecoli-DH5alpha.RDS
+Loading model files ecoli-DH5alpha.RDS 
+         id     id.type                       db.rxn
+ 1: P23-PWY metacyc pwy                  FUMHYDR-RXN
+ 2: P23-PWY metacyc pwy               SUCCCOASYN-RXN
+ 3: P23-PWY metacyc pwy  2-OXOGLUTARATE-SYNTHASE-RXN
+ 4: P23-PWY metacyc pwy            ACONITATEHYDR-RXN
+ 5: P23-PWY metacyc pwy          ACONITATEDEHYDR-RXN
+ 6: P23-PWY metacyc pwy ATP-CITRATE-PRO-S--LYASE-RXN
+ 7: P23-PWY metacyc pwy           PYRUFLAVREDUCT-RXN
+ 8: P23-PWY metacyc pwy                 PEPSYNTH-RXN
+ 9: P23-PWY metacyc pwy                PEPCARBOX-RXN
+10: P23-PWY metacyc pwy                ISOCITDEH-RXN
+11: P23-PWY metacyc pwy               MALATE-DEH-RXN
+12: P23-PWY metacyc pwy                     R601-RXN
+                                                                                seed
+ 1:                                                                rxn00799 rxn33856
+ 2:                                                       rxn00285 rxn01731 rxn33854
+ 3:                                                       rxn14048 rxn17399 rxn31312
+ 4: rxn00973 rxn00974 rxn01388 rxn15171 rxn15172 rxn15280 rxn15281 rxn19040 rxn32587
+ 5: rxn00973 rxn00974 rxn01388 rxn15171 rxn15172 rxn15280 rxn15281 rxn19040 rxn32587
+ 6:                                                                         rxn00257
+ 7:                            rxn05938 rxn07824 rxn10951 rxn13974 rxn14178 rxn20651
+ 8:                                                                         rxn00147
+ 9:                                                       rxn00251 rxn20508 rxn32421
+10:          rxn00198 rxn00199 rxn01387 rxn05794 rxn15022 rxn15023 rxn15278 rxn15279
+11:                                                                         rxn00248
+12:                   rxn08527 rxn08528 rxn10619 rxn13706 rxn13707 rxn16332 rxn20745
+[1] "Reactions already in model:  rxn00147,rxn00198,rxn00199,rxn00248,rxn00251,rxn00285,rxn00799,rxn00973,rxn00974,rxn01387,rxn01388,rxn01731,rxn05938,rxn08527,rxn08528,rxn10619,rxn13706,rxn13707,rxn15022,rxn15023,rxn15171,rxn15172,rxn15278,rxn15279,rxn15280,rxn15281,rxn31312"
+[1] "Reactions not in gapseq reaction database:  rxn05794,rxn07824,rxn13974,rxn14048,rxn14178,rxn16332,rxn17399,rxn20508,rxn20651,rxn20745,rxn33854,rxn33856"
+[1] "Added reactions:  rxn00257,rxn10951,rxn19040,rxn32421,rxn32587"
