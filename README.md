@@ -2,6 +2,10 @@
 
 ## Mathematical model
 
+## Information for judges 
+
+You can download the version of iGEM Desing League here ([link](https://github.com/levandoskije/RainbowDotsCodes/releases/tag/v1.0))
+
 
 ### How to run the code?
  - Requeriments
